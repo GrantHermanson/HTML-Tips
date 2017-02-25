@@ -42,3 +42,4 @@
 *   [HTML Entites](http://www.entitycode.com/#common-content)
 *   [GIMP - Free graphics editor](https://www.gimp.org/)
 *   [Inkscape - Free vector graphics editor](https://inkscape.org/en/)
+*   [Encode mailto links](http://rumkin.com/tools/mailto_encoder/encode.php)
